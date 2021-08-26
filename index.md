@@ -8,16 +8,9 @@ At present, I am a 4th year student at [Northeastern University](https://www.kho
 
 In the past, I worked as data automation analyst for a hydrogen fuel cell company and data science intern for an enterprise data management firm.
 
-### Projects
+### [Projects](projects.md)
 
-- [DPStat](https://medium.com/@patel.dea): This is where I write my own football analytics reports. I use publicly available data as well as [my own collection methods](https://github.com/deanpatel2/FotMob-PL-Webscraper) to generate statistics and insights about the game.
-
-- [Kaggle](https://www.kaggle.com/deanpatel): This is my Kaggle profile, where I create and upload datasets to share ideas with the wider analytics community. I also use Kaggle for online courses and receive [certificates](certificates.md) upon completion.
-
-### Work Experience
-
-- [Nuvera](https://www.nuvera.com/): Here, I worked as a data automation analyst where I replaced the comapany's ageing data automation process with a streamlined desktop GUI application using Python.
-- [GlobalIDs](https://www.globalids.com/): Here, I worked as a data science intern where I designed new data validation software to decipher anomalies in massive corporate datasets.   
+### [Work Experience](work.md)
 
 ### Interests & Hobbies
 - Data Analytics (in particular footall analytics)
