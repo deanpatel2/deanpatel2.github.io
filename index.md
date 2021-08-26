@@ -1,4 +1,4 @@
-![Profile Pic]("Linkedin Prof (2).jpg")
+![Profile Pic](Linkedin Prof (2).jpg)
 
 Hello, this is your one stop shop to browse my various projects, profiles, and platforms. 
 
