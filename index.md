@@ -1,8 +1,18 @@
-## Welcome to GitHub Pages
+## About Me
+
+<article>
+  <header>
+    <h1>A heading here</h1>
+    <p>Posted by John Doe</p>
+    <p>Some additional information here</p>
+  </header>
+  <p>Lorem Ipsum dolor set amet....</p>
+</article>
 
 You can use the [editor on GitHub](https://github.com/deanpatel2/deanpatel2.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
 
 ### Markdown
 
