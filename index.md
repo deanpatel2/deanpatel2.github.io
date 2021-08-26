@@ -12,7 +12,7 @@ In the past, I worked as data automation analyst for a hydrogen fuel cell compan
 
 - [DPStat](https://medium.com/@patel.dea): A place where I write my own football analytics reports. I use publicly available data as well as [my own collection methods](https://github.com/deanpatel2/FotMob-PL-Webscraper) to generate statistics and insights about the game.
 
-- [Kaggle](https://www.kaggle.com/deanpatel): My Kaggle profile, where I upload datasets I create to share with the rest of the analytics community. I also do online courses and receive certificates.
+- [Kaggle](https://www.kaggle.com/deanpatel): My Kaggle profile, where I upload datasets I create to share with the rest of the analytics community. I also do online courses and receive [certificates](certificates.md).
 
 # Header 1
 ## Header 2
