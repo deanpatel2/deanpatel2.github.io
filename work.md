@@ -16,7 +16,7 @@ Most of the details are confidential, but some of the main topics I engaged with
 
 As a senior member of the team of 6 interns, I also managed deliverables and communicated progress and results with other teams across the 50+ person company, working with both managers and coders. 
 
->Takeaway: GlobalIDs gave me a taste of project management along with an unparalleled exposure to solving real world data science problems where scalability was paramount.
+>GlobalIDs gave me a taste of project management along with an unparalleled exposure to solving real world data science problems where scalability was paramount.
 
 ## Nuvera
 #### Data Analysis Co-op
@@ -28,7 +28,7 @@ Here, I worked in the Testing department as a data analyst where I replaced the 
 
 Nuvera had previously used an array of VBA macros to process test data from various sources, complicating lineage, version control, and automation. I addresses these issues by building a single, all-inclusive application which was deployed to every engineer's desktop where all data automation and analysis could be performed.
 
->Takeaway: Nuvera gave me the freedom to champion a project from early stage to final deployment and a taste of how to address long-standing data issues within a company.
+>Nuvera gave me the opportunity to champion a project from early stage to final deployment and a taste of how to address long-standing data issues within a company.
 
 ## Sustainable Princeton
 #### Carbon Emissions Analyst
@@ -40,6 +40,6 @@ I bought into their vision and quantified the emissions benefits of various gree
 
 I was particularly focused on transportation emissions. This included meeting with local transportation experts, collecting data, outlining methodology, and ultimately forecasting how much we could reduce emissions through commuter incentives and a shared electric bike infrastructure.
 
->Takeaway: With Sustainable Princeton, I was able combine my passions for analytics and sustainability while also contributing to a charitable cause.
+>With Sustainable Princeton, I was able combine my passions for analytics and sustainability while also contributing to a charitable cause.
 
 
