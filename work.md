@@ -40,6 +40,6 @@ I bought into their vision and quantified the emissions benefits of various gree
 
 I was particularly focused on transportation emissions. This included meeting with local transportation experts, collecting data, outlining methodology, and ultimately forecasting how much we could reduce emissions through commuter incentives and a shared electric bike infrastructure.
 
->With Sustainable Princeton, I was able combine my passions for analytics and sustainability while also contributing to a charitable cause.
+>With Sustainable Princeton, I was able to combine my passions for analytics and sustainability while also contributing to a charitable cause.
 
 
