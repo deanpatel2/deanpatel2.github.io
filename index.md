@@ -1,27 +1,18 @@
 <img src="DP_Logo.png" alt="Dean Patel Logo" width="200" height="200">
 
-## About Me
+### About Me
 
-<article>
-  <header>
-    <h1>A heading here</h1>
-    <p>Posted by John Doe</p>
-    <p>Some additional information here</p>
-  </header>
-  <p>Lorem Ipsum dolor set amet....</p>
-</article>
+At present, I am a 4th year student at [Northeastern University](https://www.khoury.northeastern.edu/) in Boston, MA pursuing a BS in Computer Science & Economics.  Some of my past projects include reducing and forecasting carbon emissions, streamlining and automating data flows, and mitigating noise within Fortune 500 corporate databases. Currently, I am honing my analytics and visualization skills via football (real football) analytics projects.
 
-You can use the [editor on GitHub](https://github.com/deanpatel2/deanpatel2.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+Use the links provided to browse my work:
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+In the past, I worked as data automation analyst for a hydrogen fuel cell company and data science intern for a data enterprise management firm.
 
+### Work
 
-### Markdown
+- [DPStat](	https://medium.com/@patel.dea): A place where I write my own football analytics reports. I use publicly available data as well as [my own collection methods](https://github.com/deanpatel2/FotMob-PL-Webscraper) to generate statistics and insights about the game.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
+- [Kaggle] (https://www.kaggle.com/deanpatel): My Kaggle profile, where I upload datasets I create to share with the rest of the analytics community. I also do online courses and receive certificates.
 
 # Header 1
 ## Header 2
