@@ -2,7 +2,8 @@
 
 ---
 
-CS Student. Data analytics and football (real football) are my passions.
+CS Student. 
+Data analytics and football (real football) are my passions.
 
 ---
 
