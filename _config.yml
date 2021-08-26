@@ -1,14 +1,27 @@
 theme: jekyll-theme-minimal
 title: Welcome to Dean Patel's personal website!
-locale: en_US
-avatar: DP_Logo.png
-# Enter the following platform usernames if you would like for them to appear on your site.
-#owner:
-#  name: Dean Patel
-  
-# bio: "This is a sample Jekyll academic website."
-#  email: patel.dea@northeastern.edu
-  # Do not include the @ symbol in your Twitter username
- # twitter: DeanP40330856
- # linkedin: #dp2
- # github: deanpatel2
+
+# Your name to show in the footer
+author: Dean Patel
+
+# --- List of links in the navigation bar --- #
+
+navbar-links:
+  About Me: "aboutme"
+  Resources:
+    - Beautiful Jekyll: "https://beautifuljekyll.com"
+    - Learn markdown: "https://www.markdowntutorial.com/"
+  Author's home: "https://deanattali.com"
+
+# --- Logo --- #
+
+# Image to show in the navigation bar - works best with a square image
+# Remove this parameter if you don't want an image in the navbar
+avatar: "/DP_Logo.png"
+
+# By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
+round-avatar: true
+
+# If you want to have an image logo in the top-left corner instead of having the title of the website,
+# then specify the following parameter
+#title-img: /path/to/image
