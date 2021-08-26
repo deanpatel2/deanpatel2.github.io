@@ -1,3 +1,5 @@
+<img src="DP_Logo.png" alt="Dean Patel Logo" width="200" height="200">
+
 ## About Me
 
 <article>
