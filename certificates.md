@@ -1,4 +1,9 @@
-<img src="Dean Patel - Intro to Machine Learning.png" alt="Girl in a jacket" width="600" height="370">
-
-<img src="Dean Patel - Intro to Deep Learning.png" alt="Girl in a jacket" width="600" height="370">
-
+<a href="https://www.kaggle.com/learn/intro-to-machine-learning">
+  <img alt="ML Certificate" src="Dean Patel - Intro to Machine Learning.png"
+    width=600" height="370">
+</a>
+                                
+<a href="https://www.kaggle.com/learn/intro-to-deep-learning">
+  <img alt="DL Certificate" src="Dean Patel - Intro to Deep Learning.png"
+    width=600" height="370">
+</a>
