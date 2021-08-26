@@ -2,7 +2,7 @@ Hello, this is your one stop shop to browse my various projects, profiles, and p
 
 Use the links to get a better sense of what I can do!
 
-### [About Me](about.md)
+### [About](about.md)
 
 ### [Projects](projects.md)
 
