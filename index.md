@@ -1,3 +1,5 @@
+![Profile Pic]("Linkedin Prof (2).jpg")
+
 Hello, this is your one stop shop to browse my various projects, profiles, and platforms. 
 
 Use the links to get a better sense of what I can do!
