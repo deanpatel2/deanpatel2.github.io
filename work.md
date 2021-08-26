@@ -27,3 +27,6 @@ Here, I worked in the Testing department as a data analyst where I replaced the 
 Nuvera had previously used an array of VBA macros to process test data from various sources, complicating lineage, version control, and automation. I addresses these issues by building a single, all-inclusive application which was deployed to every engineer's desktop where all data automation and analysis could be performed.
 
 >Nuvera gave me the freedom to champion a project from early stage to final deployment and learn how to address long-standing data issues within a company.
+
+## Sustainable Princeton
+#### January 2020 - May 2020
