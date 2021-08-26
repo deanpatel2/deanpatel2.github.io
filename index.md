@@ -1,4 +1,4 @@
-![](/Linkedin Prof (2).jpg)
+<img src="Linkedin Prof (2).jpg" alt="Profile Pic">
 
 Hello, this is your one stop shop to browse my various projects, profiles, and platforms. 
 
