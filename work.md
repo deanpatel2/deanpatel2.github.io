@@ -5,6 +5,7 @@
 ---
 
 ## GlobalIDs
+#### Data Science Intern
 #### July 2020 - May 2021
 
 [GlobalIDs](https://www.globalids.com/) is an enterprise data management firm performing data quality, classification, lineage, and other services for large corporate databases including Fortune 500 companies.
@@ -18,6 +19,7 @@ As a senior member of the team of 6 interns, I also managed deliverables and com
 >GlobalIDs gave me a taste of project management along with an unparalleled exposure to solving real world data science problems faced by international corporations.
 
 ## Nuvera
+#### Data Analysis Co-op
 #### January 2020 - May 2020
 
 [Nuvera](https://www.nuvera.com/) is a manufacturer of zero-emissions hydrogen fuel cells and engines. 
@@ -29,4 +31,5 @@ Nuvera had previously used an array of VBA macros to process test data from vari
 >Nuvera gave me the freedom to champion a project from early stage to final deployment and learn how to address long-standing data issues within a company.
 
 ## Sustainable Princeton
-#### January 2020 - May 2020
+#### Carbon Emissions Analyst
+#### April 2019 - July 2019
