@@ -4,10 +4,10 @@
 
 ---
 
-### [GlobalIDs](https://www.globalids.com/)
+## GlobalIDs
 #### July 2020 - May 2021
 
-GlobalIDs is an enterprise data management firm performing data quality, classification, lineage, and other services for large corporate databases including Fortune 500 companies.
+[GlobalIDs](https://www.globalids.com/) is an enterprise data management firm performing data quality, classification, lineage, and other services for large corporate databases including Fortune 500 companies.
 
 Here, I worked as a data science intern where I designed new data validation **software to decipher anomalies** in massive corporate datasets. 
 
