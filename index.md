@@ -1,40 +1,28 @@
-<img src="DP_Logo.png" alt="Dean Patel Logo" width="200" height="200">
+Hello, this is your one stop shop to browse my various projects, profiles, and platforms. Use the links to get a better sense of what I can do!
 
 ### About Me
 
-At present, I am a 4th year student at [Northeastern University](https://www.khoury.northeastern.edu/) in Boston, MA pursuing a BS in Computer Science & Economics.  Some of my past projects include reducing and forecasting carbon emissions, streamlining and automating data flows, and mitigating noise within Fortune 500 corporate databases. Currently, I am honing my analytics and visualization skills via football (real football) analytics projects.
+At present, I am a 4th year student at [Northeastern University](https://www.khoury.northeastern.edu/) in Boston, MA pursuing a BS in Computer Science & Economics.  Some of my past work include reducing and forecasting carbon emissions, streamlining and automating data flows, and mitigating noise within Fortune 500 corporate databases. Currently, I am honing my analytics and visualization skills via football (real football) analytics projects.
 
-Use the links provided to browse my work:
 
-In the past, I worked as data automation analyst for a hydrogen fuel cell company and data science intern for a data enterprise management firm.
+In the past, I worked as data automation analyst for a hydrogen fuel cell company and data science intern for an enterprise data management firm.
 
-### Work
+### Projects
 
-- [DPStat](https://medium.com/@patel.dea): A place where I write my own football analytics reports. I use publicly available data as well as [my own collection methods](https://github.com/deanpatel2/FotMob-PL-Webscraper) to generate statistics and insights about the game.
+- [DPStat](https://medium.com/@patel.dea): This is where I write my own football analytics reports. I use publicly available data as well as [my own collection methods](https://github.com/deanpatel2/FotMob-PL-Webscraper) to generate statistics and insights about the game.
 
-- [Kaggle](https://www.kaggle.com/deanpatel): My Kaggle profile, where I upload datasets I create to share with the rest of the analytics community. I also do online courses and receive [certificates](certificates.md).
+- [Kaggle](https://www.kaggle.com/deanpatel): My Kaggle profile, where I create and upload datasets to share ideas with the wider analytics community. I also use Kaggle for online courses and receive [certificates](certificates.md) upon completion.
 
-# Header 1
-## Header 2
-### Header 3
+### Work Experience
 
-- Bulleted
-- List
+- [Nuvera](https://www.nuvera.com/): Here, I worked as a data automation analyst where I replaced the comapany's ageing data automation process with a streamlined desktop GUI application using Python.
+- [GlobalIDs](https://www.globalids.com/): Here, I worked as a data science intern where I designed new data validation software to decipher anomalies in massive corporate datasets.   
 
-1. Numbered
-2. List
+### Interests
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Contact
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/deanpatel2/deanpatel2.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+- [Email](patel.dea@northeastern.edu)
+- [LinkedIn](http://www.linkedin.com/in/dp2)
