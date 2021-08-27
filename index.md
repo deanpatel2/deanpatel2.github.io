@@ -8,14 +8,7 @@ Use the links to get a better sense of what I can do!
 
 ### [Work Experience](work.md)
 
-### Interests & Hobbies
-- Data Analytics (in particular footall analytics)
-  - Visualization
-  - NLP
-  - ML
-- Avid football fan (Arsenal FC) and [player](https://www.youtube.com/watch?v=sXh5QmqUBp4)
-- Learning languages (past: French, German. current: Japanese)
-- Calisthenics
+### [Interests & Hobbies](interests.md)
 
 ### Contact
 
