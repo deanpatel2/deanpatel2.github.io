@@ -6,7 +6,7 @@
 
 ---
 
-At present, I am a 4th year student at [Northeastern University](https://www.khoury.northeastern.edu/) in Boston, MA pursuing a BS in Computer Science & Economics. Data analytics, sustainable energy, and football (real football) are my passions. I seek out opportunities that allow me to combine them.
+At present, I am a 4th year student at [Northeastern University](https://www.khoury.northeastern.edu/) in Boston, MA pursuing a BS in Computer Science & Economics. Data analytics, sustainable energy, economics, and football (real football) are my passions. I seek out opportunities that allow me to combine them.
 
 My past work includes forecasting carbon emissions for my hometown, streamlining data flows for hydrogen fuel cells, and mitigating noise within Fortune 500 corporate databases. 
 
