@@ -1,6 +1,6 @@
 Hello, this is your one stop shop to browse my various projects, profiles, and platforms. 
 
-Use the links to get a better sense of what I can do!
+Use the links to get a better sense of who I am and what I do!
 
 ### [About](about.md)
 
