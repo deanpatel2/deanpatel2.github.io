@@ -18,6 +18,8 @@ As a senior member of the team of 6 interns, I also managed deliverables and com
 
 >GlobalIDs gave me a taste of project management along with an unparalleled exposure to solving real world data science problems where scalability was paramount.
 
+---
+
 ### Nuvera
 #### Data Analysis Co-op
 #### January 2020 - May 2020
@@ -29,6 +31,8 @@ Here, I worked in the Testing department as a data analyst where I replaced the 
 Nuvera had previously used an array of VBA macros to process test data from various sources, complicating lineage, version control, and automation. I addresses these issues by building a single, all-inclusive application which was deployed to every engineer's desktop where all data automation and analysis could be performed.
 
 >Nuvera gave me the opportunity to champion a project from early stage to final deployment and a taste of how to address long-standing data issues within a company.
+
+---
 
 ### Sustainable Princeton
 #### Carbon Emissions Analyst
