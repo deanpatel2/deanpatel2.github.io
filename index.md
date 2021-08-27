@@ -14,3 +14,5 @@ Use the links to get a better sense of who I am and what I do!
 
 - [Email](patel.dea@northeastern.edu)
 - [LinkedIn](http://www.linkedin.com/in/dp2)
+
+![](DP_Logo.png)
