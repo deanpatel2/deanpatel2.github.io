@@ -17,9 +17,9 @@ I grew up with the nickname ["Dean the soccer machine"](https://www.youtube.com/
 
 ## Languages
 
-I take an active interest in learning about the world, from history and geography to food and culture. Many of my global experiences, particularly in my study abroads, have been massively enhanced by my ability to speak languages. It is fascinating to me how much more we can learn about other cultures through language alone. It is also a great workout for the brain. Currently, I can speak French at an advanced level, German at a proficient level, and Japanese/Spanish at a novice level.
+I take an active interest in learning about the world, from history and geography to food and culture. Many of my global experiences, particularly in my study abroads, have been massively enhanced by my ability to speak languages. It is fascinating to me how much more we can learn about other cultures through language alone. It is also a great workout for the brain. Currently, I can speak French at an advanced level, German at a conversational level, and Japanese/Spanish at a novice level.
 
 ## Calisthenics
 
-Calisthenics is strength training where you use your own bodyweight. I like it because there are so many cool movements you can train your body to do beyond the monotony of typical weight training. Plus, it is an awesome community where everyone wants to help each other out no matter what level they are.
+Calisthenics is strength training where you use your own bodyweight. I like it because there are so many cool movements you can train your body to do beyond the monotony of typical weight training. Plus, it is an awesome community where everyone wants to help each other out no matter what level they are, which is why I put it here.
 
