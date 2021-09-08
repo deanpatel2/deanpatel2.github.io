@@ -1,3 +1,4 @@
+
 ---
 
 ## Work Experience
@@ -6,7 +7,7 @@
 
 ### GlobalIDs
 #### Data Science Intern
-#### July 2020 - May 2021
+#### *July 2020 - May 2021*
 
 [GlobalIDs](https://www.globalids.com/) is an enterprise data management firm managing large corporate databases including Fortune 500 companies'.
 
@@ -22,7 +23,7 @@ As a senior member of the team of 6 interns, I also managed deliverables and com
 
 ### Nuvera
 #### Data Analysis Co-op
-#### January 2020 - May 2020
+#### J*anuary 2020 - May 2020*
 
 [Nuvera](https://www.nuvera.com/) is a manufacturer of zero-emissions hydrogen fuel cells and engines. 
 
@@ -36,7 +37,7 @@ Nuvera had previously used an array of VBA macros to process test data from vari
 
 ### Sustainable Princeton
 #### Carbon Emissions Analyst
-#### April 2019 - July 2019
+#### *April 2019 - July 2019*
 
 At [Sustainable Princeton](https://www.sustainableprinceton.org/), the motto is "climate change is a global issue, but change must begin locally".
 
