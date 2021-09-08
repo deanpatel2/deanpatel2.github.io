@@ -6,12 +6,12 @@
 
 ---
 
-At present, I am a 4th year student at [Northeastern University](https://www.khoury.northeastern.edu/) in Boston, MA pursuing a BS in Computer Science & Economics. Data analytics, sustainable energy, economics, and football (real football) are my passions. I seek out opportunities that allow me to combine them.
+At present, I am a 4th year student at [Northeastern University](https://www.khoury.northeastern.edu/) in Boston, MA pursuing a BS in Computer Science & Economics. Data analytics, football (real football), sustainable energy, and economics are my passions. I seek out opportunities that allow me to combine them.
 
-My past work includes forecasting carbon emissions for my hometown, streamlining data flows for hydrogen fuel cells, and mitigating noise within Fortune 500 corporate databases. 
+My past work includes forecasting carbon emissions for my hometown, streamlining data flows for hydrogen fuel cells, and developing algorithms for mitigating noise within Fortune 500 corporate databases. 
 
-Currently, I am building tools and writing reports at the intersection of analytics and football. I do this because my curiosity for the sport allows me to generate my own unique questions and insights. 
+Currently, I am taking classes and working as a Data Analyst for Northeastern's Venture Accelerator [IDEA](https://www.northeastern.edu/idea/). I also [write programs](https://github.com/deanpatel2) and [publish articles](https://medium.com/@patel.dea) to Medium about football analytics (applying data science to football data). 
 
-Combining analytics with football allows me to approach data analysis with a curiosity-based attitude and accelerate the process of honing my statistical and visualization skills. I get to design my own projects, collect my own data, and now I wake up everyday looking forward to see what I can produce. 
+Combining analytics with football has allowed me to approach analytics with more curiosity and accelerated the process of honing my statistical and visualization skills. I get to design my own projects, collect my own data, and write about my own work. 
 
-If you would like to learn more about me, please [reach out](contact.md) (especially if you are into football analytics)!
+If you would like to learn more about me, please reach out.
