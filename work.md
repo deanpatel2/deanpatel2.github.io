@@ -23,11 +23,12 @@ At the time of writing, I recently started this role. My main responsibilities c
 
 [GlobalIDs](https://www.globalids.com/) is an enterprise data management firm managing large corporate databases including Fortune 500 companies.
 
-Here, I worked as a data science intern where I designed new data validation software to decipher anomalies in massive categorical datasets. 
+Accomplishments/responsibilities:
 
-Most of the details are confidential, but some of the main topics I engaged with are: *clustering, NLP, Bayesian statistics, outlier detection methods, correlation tests*.
-
-As a senior member of the team of 6 interns, I also managed deliverables and communicated progress and results with other teams across the 50+ person company, working with both managers and coders. 
+- Designed new data validation software to decipher anomalies in categorical columnar datasets
+- Managed deliverables for a team of 6 interns and communicated progress with other teams across the 100+ person company, working with both managers and coders
+- Presented novel multi-columnar noise detection algorithm that identifies anomalies between related values at the row-level
+  - E.g. If a city and zip were both valid in their own right, but did not match semantically (i.e. 02110 and New York City) 
 
 >GlobalIDs gave me a taste of project management along with an unparalleled exposure to solving real world data science problems where scalability was paramount.
 
