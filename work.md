@@ -5,11 +5,21 @@
 
 ---
 
+### IDEA
+#### Data Analyst
+#### *September 2021 - Present*
+
+[IDEA](https://www.northeastern.edu/idea/) is Northeastern's student-led venture accelerator.
+
+- Assist in web integration of analytical insights and visualizations.
+- Create data dashboarding visualization of the key insights to be listed on the website
+- Initiate sentiment analysis on the survey textual feedback
+
 ### GlobalIDs
 #### Data Science Intern
 #### *July 2020 - May 2021*
 
-[GlobalIDs](https://www.globalids.com/) is an enterprise data management firm managing large corporate databases including Fortune 500 companies'.
+[GlobalIDs](https://www.globalids.com/) is an enterprise data management firm managing large corporate databases including Fortune 500 companies.
 
 Here, I worked as a data science intern where I designed new data validation software to decipher anomalies in massive categorical datasets. 
 
