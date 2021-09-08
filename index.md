@@ -1,6 +1,6 @@
-Hello, this is your one stop shop to browse my various projects, profiles, and platforms. 
+Hello, welcome to my personal website.
 
-Use the links to get a better sense of who I am and what I do!
+Here you can browse my various projects, work experiences, articles, interests, and more. 
 
 ### [About](about.md)
 
@@ -12,7 +12,7 @@ Use the links to get a better sense of who I am and what I do!
 
 ### Contact
 
-- [Email](patel.dea@northeastern.edu)
+- Email: patel.dea@northeastern.edu
 - [LinkedIn](http://www.linkedin.com/in/dp2)
 
-![](LinkedIn_Prof.jpg)
+![Profile Pic](LinkedIn_Prof.jpg)
