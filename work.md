@@ -11,9 +11,11 @@
 
 [IDEA](https://www.northeastern.edu/idea/) is Northeastern's student-led venture accelerator.
 
-- Assist in web integration of analytical insights and visualizations.
-- Create data dashboarding visualization of the key insights to be listed on the website
-- Initiate sentiment analysis on the survey textual feedback
+At the time of writing, I recently started this role. My main responsibilities currently include:
+
+- Assisting in web integration of analytical insights and visualizations.
+- Creating data dashboarding visualization of the key insights to be listed on the new website
+- Initiating sentiment analysis on the survey textual feedback
 
 ### GlobalIDs
 #### Data Science Intern
