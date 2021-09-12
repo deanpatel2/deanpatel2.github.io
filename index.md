@@ -1,6 +1,6 @@
 Hello, welcome to my personal website.
 
-Here you can browse my various projects, work experiences, articles, interests, and more. 
+Here you can browse my various projects, work experiences, interests, and more. 
 
 ### [About](about.md)
 
@@ -9,6 +9,8 @@ Here you can browse my various projects, work experiences, articles, interests, 
 ### [Work Experience](work.md)
 
 ### [Interests & Hobbies](interests.md)
+
+### [Study Abroad](abroad.md)
 
 ### Contact
 
