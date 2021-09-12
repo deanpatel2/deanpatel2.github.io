@@ -6,14 +6,21 @@ You can also see the datasets I create, clean, and maintain on my [Kaggle profil
 
 ---
 
-Some projects I have worked on:
-- Software
+Some projects I have completed:
+- Games
   - Maze generator and solver (private repo) in *Java*
   - Tetris (private repo) in *Racket*
   - Flood-it (private repo) in *Java*
   - Freecell (private repo) in *Java*
 
+- Software
+  - Image Processor (private repo) in *Java*
+
 - Football Analytics
   - [Premier League Webscraper](https://github.com/deanpatel2/FotMob-PL-Webscraper) in *Python*
   - [What were the best predictors of Euro 2020?](https://github.com/deanpatel2/euro2020-best-predictor-stat) in *Python*
+
+Current project in progress:
+
+- Evaluating Passes: fitting a statistical model to determine how "good" a pass is using football data
 
