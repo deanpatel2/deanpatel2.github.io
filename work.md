@@ -27,7 +27,7 @@ Specifics currently unknown as I recently began this role. In general, my main r
 
 *Accomplishments/responsibilities*:
 
-- Designed new data validation software to decipher anomalies in columnar datasets to catch errors at the source
+- Created a new data validation algorithm to decipher anomalies in columnar datasets, which was deployed to client software within 3 months
 - Managed deliverables for a team of 6 interns and communicated progress with other teams across the 100+ person company, working with both managers and coders
 - Developed a multi-columnar noise detection model that identifies anomalies between related values at the row-level
   - E.g. If a city and zip were both valid in their own right, but did not match semantically (i.e. 02110 and New York City)  
