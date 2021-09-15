@@ -27,10 +27,11 @@ Specifics currently unknown as I recently began this role. In general, my main r
 
 - Designed new data validation software to decipher anomalies in columnar datasets to catch errors at the source
 - Managed deliverables for a team of 6 interns and communicated progress with other teams across the 100+ person company, working with both managers and coders
-- Developed novel multi-columnar noise detection algorithm that identifies anomalies between related values at the row-level
-  - E.g. If a city and zip were both valid in their own right, but did not match semantically (i.e. 02110 and New York City) 
+- Developed a multi-columnar noise detection model that identifies anomalies between related values at the row-level
+  - E.g. If a city and zip were both valid in their own right, but did not match semantically (i.e. 02110 and New York City)  
+- **Overarching question**: *How can we verify quality of a dataset, using the dataset itself?*
 
->GlobalIDs gave me a taste of project management along with a deep exposure to solving real world data science problems where scalability is paramount.
+>GlobalIDs gave me a taste of project management along with the opportunity to grapple with PhD-level data science problems where scalability was paramount.
 
 ---
 
@@ -46,6 +47,7 @@ Specifics currently unknown as I recently began this role. In general, my main r
 - Application was deployed to every test engineer's desktop and became the hub for all data automation and analysis tasks
 - Adressed complicated data lineage and version control issues rooted in an array of buggy VBA macros by standardizing programming language to Python
 - Introduced logistic regression model to predict probability of stack failure in the field
+- **Essential task**: *Build an application that serves as a "hub" for data automation processes, enhancing existing visualizations and adding new ones.*
 
 >Nuvera gave me the opportunity to champion a full-cycle project from early stage to final deployment and a taste of how to address long-standing data issues within a company.
 
@@ -63,7 +65,8 @@ Specifics currently unknown as I recently began this role. In general, my main r
 - Provided key transportation figures in the development of Princeton's 30-year Climate Action Plan and its presentation to the municipality in July 2019
   - E.g. estimated commuter incentive program emissions reduction to be appx. 1062 metric tons of CO2, determined transportation as a sector comprises appx. 30% of all Princeton emissions in 2018
 - See the report [here](https://www.sustainableprinceton.org/wordpress/wp-content/uploads/2019/11/princeton-climate-action-plan-report.pdf)
-  - Figures I worked on can be found between pages 26-34  
+  - Figures I worked on can be found between pages 26-34 
+- **Essential task**: *Quantify and contextualize transportation emissions in Princeton, and provide figures to advise on the most effective options in addressing it.* 
 
 >With Sustainable Princeton, I was able to combine my passions for analytics and sustainability while also contributing to a charitable cause and making meaninful connections with people in my community.
 
