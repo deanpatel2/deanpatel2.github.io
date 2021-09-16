@@ -23,9 +23,11 @@ Specifics currently unknown as I recently began this role. In general, my main r
 
 [GlobalIDs](https://www.globalids.com/) is an enterprise data management firm managing large corporate databases including Fortune 500 companies.
 
-**Overarching question**: *How can we verify quality of a dataset, using the dataset itself?*
+**Overarching questions**:
+- *How can we decipher noise in columnar data without knowing its semantics/label?*
+- **More important**: *How can we verify quality of a dataset, using the dataset itself?*
 
-*Accomplishments/responsibilities*:
+Accomplishments/responsibilities:
 
 - Created a new data validation algorithm to decipher anomalies in columnar datasets, which was deployed to client software within 3 months
 - Managed deliverables for a team of 6 interns and communicated progress with other teams across the 100+ person company, working with both managers and coders
@@ -44,7 +46,7 @@ Specifics currently unknown as I recently began this role. In general, my main r
 
 **Essential task**: *Build an application that serves as a "hub" for data automation processes, enhancing existing visualizations and adding new ones.*
 
-*Accomplishments/responsibilities*:
+Accomplishments/responsibilities:
 
 - Replaced the comapany's ageing data automation process with a streamlined desktop GUI application using Python
 - Application was deployed to every test engineer's desktop and became the hub for all data automation and analysis tasks
@@ -63,7 +65,7 @@ Specifics currently unknown as I recently began this role. In general, my main r
 
 **Essential task**: *Quantify and contextualize transportation emissions in Princeton, and provide figures to advise on the most effective options in addressing it.* 
 
-*Accomplishments/responsibilities*:
+Accomplishments/responsibilities:
 
 - Quantified the emissions benefits of various green policies for a team of strategists lead by Princeton professors and local experts
 - Provided key transportation figures in the development of Princeton's 30-year Climate Action Plan and its presentation to the municipality in July 2019
