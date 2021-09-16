@@ -25,7 +25,7 @@ Specifics currently unknown as I recently began this role. In general, my main r
 
 **Overarching questions**:
 - *How can we decipher noise in columnar data without knowing its semantics/label (at scale and deterministically)?*
-- **More important**: *How can we verify quality of a dataset, using the dataset itself?*
+- **More important**: *How can we scale that to remove noise from an entire dataset/database, using only the data itself?*
 
 Accomplishments/responsibilities:
 
