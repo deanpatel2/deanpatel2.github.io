@@ -24,17 +24,17 @@ Specifics currently unknown as I recently began this role. In general, my main r
 [GlobalIDs](https://www.globalids.com/) is an enterprise data management firm managing large corporate databases including Fortune 500 companies.
 
 **Overarching questions**:
-- *How can we decipher noise in columnar data without knowing its semantics/label?*
+- *How can we decipher noise in columnar data without knowing its semantics/label (at scale and deterministically)?*
 - **More important**: *How can we verify quality of a dataset, using the dataset itself?*
 
 Accomplishments/responsibilities:
 
-- Created a new data validation algorithm to decipher anomalies in columnar datasets, which was deployed to client software within 3 months
+- Created a new data validation algorithm using NLP techniques to decipher anomalies in columnar datasets, which was deployed to client software within 3 months
 - Managed deliverables for a team of 6 interns and communicated progress with other teams across the 100+ person company, working with both managers and coders
-- Developed a multi-columnar noise detection model that identifies anomalies between related values at the row-level
-  - E.g. If a city and zip were both valid in their own right, but did not match semantically (i.e. 02110 and New York City)  
+- Developed a multi-columnar noise detection model that identifies anomalies between related values at the row-level of datasets
+  - E.g. If a city and zip were both valid in their own right, but did not match semantically (i.e. 02110 and New York City), we wanted to identify that as noise  
 
->GlobalIDs gave me a taste of project management along with the opportunity to grapple with PhD-level data science problems where scalability was paramount.
+>GlobalIDs gave me a taste of project management along with the opportunity to grapple with senior-level data science problems on the cutting-edge where scalability was paramount.
 
 ---
 
