@@ -44,7 +44,7 @@ Accomplishments/responsibilities:
 
 [Nuvera](https://www.nuvera.com/) is a manufacturer of zero-emissions hydrogen fuel cells and engines.
 
-**Essential task**: *Build an application that serves as a "hub" for data automation processes, enhancing existing visualizations and adding new ones.*
+**Essential task**: *Build an extensible Python application for test engineers that serves as a "hub" for their data automation processes, enhancing existing visualizations and adding new ones.*
 
 Accomplishments/responsibilities:
 
@@ -63,7 +63,7 @@ Accomplishments/responsibilities:
 
 [Sustainable Princeton](https://www.sustainableprinceton.org/), is a 501(c)(3) nonprofit whose mission is to lead community change to reduce greenhouse gas emissions and strengthen climate resilience.
 
-**Essential task**: *Quantify and contextualize transportation emissions in Princeton, and provide figures to advise on the most effective options in addressing it.* 
+**Essential task**: *Quantify and contextualize transportation emissions in Princeton, and provide facts and figures to advise on the most effective options in addressing those emissions.* 
 
 Accomplishments/responsibilities:
 
