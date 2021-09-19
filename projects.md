@@ -6,7 +6,7 @@ You can also see the datasets I create, clean, and maintain on my [Kaggle profil
 
 ---
 
-Some projects I have completed:
+Projects I have completed:
 - School
   - Maze generator and solver (private repo) in *Java*
   - Tetris (private repo) in *Racket*
@@ -17,8 +17,9 @@ Some projects I have completed:
 - Football Analytics
   - [Premier League Webscraper](https://github.com/deanpatel2/FotMob-PL-Webscraper) in *Python*
   - [What were the best predictors of Euro 2020?](https://github.com/deanpatel2/euro2020-best-predictor-stat) in *Python*
+  - [England's deliveries and solo runs in Euro 2020](https://github.com/deanpatel2/England-Final-Third-Euro2020)
 
-Current project(s) in progress:
+Project(s) in progress:
 
 - Evaluating Passes: fitting a regression model to determine how "good" a pass is using football data
 - Algo Trading: designing a trading algorithm, either for forex or crypto
