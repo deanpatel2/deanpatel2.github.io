@@ -20,7 +20,8 @@ Some projects I have completed:
   - [Premier League Webscraper](https://github.com/deanpatel2/FotMob-PL-Webscraper) in *Python*
   - [What were the best predictors of Euro 2020?](https://github.com/deanpatel2/euro2020-best-predictor-stat) in *Python*
 
-Current project in progress:
+Current project(s) in progress:
 
-- Evaluating Passes: fitting a statistical model to determine how "good" a pass is using football data
+- Evaluating Passes: fitting a regression model to determine how "good" a pass is using football data
+- Algo Trading: designing a trading algorithm, either for forex or crypto
 
