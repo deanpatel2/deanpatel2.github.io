@@ -23,9 +23,7 @@ Specifics currently unknown as I recently began this role. In general, my main r
 
 [GlobalIDs](https://www.globalids.com/) is an enterprise data management firm managing large corporate databases including Fortune 500 companies.
 
-**Overarching questions**:
-- *How can we decipher noise in columnar data without knowing its semantics/label (at scale and deterministically)?*
-- **More important**: *How can we scale that to remove noise from an entire dataset/database, using only the data itself?*
+**The mission**: Use NLP techniques to deterministically decipher noise values in any single column of unlabeled categorical data. After this, scale to multi-column and identify noise that exists between semantically-related columns without an "authoritative" reference set.
 
 Accomplishments/responsibilities:
 
@@ -34,17 +32,17 @@ Accomplishments/responsibilities:
 - Developed a multi-columnar noise detection model that identifies anomalies between related values at the row-level of datasets
   - E.g. If a city and zip were both valid in their own right, but did not match semantically (i.e. 02110 and New York City), we wanted to identify that as noise  
 
->GlobalIDs gave me a taste of project management along with the opportunity to grapple with senior-level data science problems on the cutting-edge where scalability was paramount.
+>GlobalIDs gave me a taste of project management along with the opportunity to grapple with cutting-edge data science problems where scalability was paramount.
 
 ---
 
 ### Nuvera
-#### Data Analysis Co-op
+#### Data Automation Co-op
 #### *January 2020 - May 2020*
 
 [Nuvera](https://www.nuvera.com/) is a manufacturer of zero-emissions hydrogen fuel cells and engines.
 
-**Essential task**: *Build an extensible Python application for test engineers that serves as a "hub" for their data automation processes, enhancing existing visualizations and adding new ones.*
+**The mission**: *Build an extensible Python application for test engineers that serves as a "hub" for their data automation processes, enhancing existing visualizations and adding new ones.*
 
 Accomplishments/responsibilities:
 
@@ -58,12 +56,12 @@ Accomplishments/responsibilities:
 ---
 
 ### Sustainable Princeton
-#### Carbon Emissions Analyst
+#### Carbon Emissions Data Analyst
 #### *April 2019 - July 2019*
 
 [Sustainable Princeton](https://www.sustainableprinceton.org/), is a 501(c)(3) nonprofit whose mission is to lead community change to reduce greenhouse gas emissions and strengthen climate resilience.
 
-**Essential task**: *Quantify and contextualize transportation emissions in Princeton, and provide facts and figures to advise on the most effective options in addressing those emissions.* 
+**The mission**: *Quantify and contextualize transportation emissions in Princeton, and provide facts and figures to advise on the most effective options in addressing those emissions.* 
 
 Accomplishments/responsibilities:
 
