@@ -7,13 +7,11 @@ You can also see the datasets I create, clean, and maintain on my [Kaggle profil
 ---
 
 Some projects I have completed:
-- Games
+- School
   - Maze generator and solver (private repo) in *Java*
   - Tetris (private repo) in *Racket*
   - Flood-it (private repo) in *Java*
   - Freecell (private repo) in *Java*
-
-- Software
   - Image Processor (private repo) in *Java*
 
 - Football Analytics
