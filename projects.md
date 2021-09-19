@@ -17,7 +17,7 @@ Projects I have completed:
 - Football Analytics
   - [Premier League Webscraper](https://github.com/deanpatel2/FotMob-PL-Webscraper) in *Python*
   - [What were the best predictors of Euro 2020?](https://github.com/deanpatel2/euro2020-best-predictor-stat) in *Python*
-  - [England's deliveries and solo runs in Euro 2020](https://github.com/deanpatel2/England-Final-Third-Euro2020)
+  - [England's deliveries and solo runs in Euro 2020](https://github.com/deanpatel2/England-Final-Third-Euro2020) in *Python*
 
 Project(s) in progress:
 
