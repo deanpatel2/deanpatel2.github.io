@@ -21,6 +21,6 @@ Projects I have completed:
 
 Project(s) in progress:
 
-- Evaluating Passes: fitting a regression model to determine how which players are "good" passers of the ball
+- Evaluating Passes: fitting a regression model to determine which players are "good" passers of the ball
 - Algo Trading: designing a trading algorithm, either for forex or crypto
 
