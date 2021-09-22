@@ -7,7 +7,7 @@ You can also see the datasets I create, clean, and maintain on my [Kaggle profil
 ---
 
 Projects I have completed:
-- School
+- Games/GUI
   - Maze generator and solver (private repo) in *Java*
   - Tetris (private repo) in *Racket*
   - Flood-it (private repo) in *Java*
@@ -21,6 +21,6 @@ Projects I have completed:
 
 Project(s) in progress:
 
-- Evaluating Passes: fitting a regression model to determine how "good" a pass is using football data
+- Evaluating Passes: fitting a regression model to determine how which players are "good" passers of the ball
 - Algo Trading: designing a trading algorithm, either for forex or crypto
 
