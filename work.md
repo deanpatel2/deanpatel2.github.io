@@ -83,4 +83,7 @@ Accomplishments/responsibilities:
 
 Accomplishments/responsibilities:
 
+- Revamped website to adhere to the principal architect's meticulous design requests and attract customers
+- Ensured extensibility by providing detailed documentation and code demos for how to add new projects when necessary
+- Website can be found [here](http://www.rcarchitect.com/)
 
