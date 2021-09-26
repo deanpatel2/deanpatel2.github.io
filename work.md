@@ -16,6 +16,7 @@ I recently began this role. In general, my main responsibilities include:
 - Assisting in web integration of analytical insights and visualizations.
 - Creating data dashboarding visualization of key insights to be listed on a new website for the organization
 - Initiating sentiment analysis on textual feedback from venture surveys
+- Interacting with Salesforce API; specifics unknown
 
 ### GlobalIDs
 #### Data Science Intern
