@@ -23,3 +23,8 @@ I take an active interest in learning about the world, from history and geograph
 
 Calisthenics is strength training where you use your own bodyweight. I like it because there are so many cool movements you can train your body to do beyond the monotony of typical weight training. Plus, it is an awesome community where everyone wants to help each other out no matter what level they are, which is why I put it here.
 
+### Others
+- mobility (electric cars, hyperloop, etc.)
+- smart city technology
+- renewable energy technology
+- blockchain
