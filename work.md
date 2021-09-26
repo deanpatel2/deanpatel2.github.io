@@ -11,7 +11,7 @@
 
 [IDEA](https://www.northeastern.edu/idea/) is Northeastern's student-led venture accelerator.
 
-Specifics currently unknown as I recently began this role. In general, my main responsibilities include:
+I recently began this role. In general, my main responsibilities include:
 
 - Assisting in web integration of analytical insights and visualizations.
 - Creating data dashboarding visualization of key insights to be listed on a new website for the organization
@@ -72,5 +72,15 @@ Accomplishments/responsibilities:
   - Figures I worked on can be found between pages 26-34 
 
 >With Sustainable Princeton, I was able to combine my passions for analytics and sustainability while also contributing to a charitable cause and making meaninful connections with people in my community.
+
+### Robert Cerutti Architect
+#### Web Developer
+#### *June 2018 - June 2019*
+
+[Robert Cerutti Architect](http://www.rcarchitect.com/), is a multi-faceted professional design firm located in Princeton, New Jersey.
+
+**The mission**: *Build a new website to highlight the firm's wide range of commercial, educational, institutional, and residential projects.*
+
+Accomplishments/responsibilities:
 
 
