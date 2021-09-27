@@ -13,6 +13,7 @@ Projects I have completed:
   - Flood-it (private repo) in *Java*
   - Freecell (private repo) in *Java*
   - Image Processor (private repo) in *Java*
+
 Per Northeastern policy, course projects are kept in a private repository, and available upon request.
 
 
