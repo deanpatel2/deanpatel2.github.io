@@ -76,17 +76,19 @@ Accomplishments/responsibilities:
 
 >With Sustainable Princeton, I was able to combine my passions for analytics and sustainability while also contributing to a charitable cause and making meaninful connections with people in my community.
 
+---
+
 ### Robert Cerutti Architect
 #### Web Developer
 #### *June 2018 - June 2019*
 
 [Robert Cerutti Architect](http://www.rcarchitect.com/), is a multi-faceted professional design firm located in Princeton, New Jersey.
 
-**The mission**: *Build a new website to highlight the firm's wide range of commercial, educational, institutional, and residential projects.*
+**The mission**: *Build a new website to highlight the firm's wide range of commercial, educational, institutional, and residential projects and attract more customers.*
 
 Accomplishments/responsibilities:
 
-- Revamped website to adhere to the principal architect's meticulous design requests and attract customers
+- Revamped website using Dreamweaver CC to adhere to the principal architect's meticulous design requests and attract customers
 - Ensured extensibility by providing detailed documentation and code demos for how to add new projects when necessary
 - Website can be found [here](http://www.rcarchitect.com/)
 
