@@ -25,6 +25,6 @@ Calisthenics is strength training where you use your own bodyweight. I like it b
 
 ### Others
 - mobility (electric cars, hyperloop, etc.)
-- smart city technology
+- algo trading
+- barbering
 - renewable energy technology
-- blockchain
