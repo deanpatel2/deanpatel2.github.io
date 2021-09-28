@@ -18,6 +18,8 @@ I recently began this role. In general, my main responsibilities include:
 - Performing sentiment analysis on textual feedback from venture surveys to reveal trends in venture early stages
 - Interacting with Salesforce API; specifics still unknown
 
+---
+
 ### GlobalIDs
 #### Data Science Intern
 #### *July 2020 - May 2021*
