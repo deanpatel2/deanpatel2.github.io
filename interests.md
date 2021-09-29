@@ -27,4 +27,4 @@ Calisthenics is strength training where you use your own bodyweight. I like it b
 - barbering 
 - futuristic mobility (e.g. hyperloop)
 - algo trading
-- leathercrafting
+- leathercrafting (so far I have made a passport wallet)
