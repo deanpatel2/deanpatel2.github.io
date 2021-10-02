@@ -17,4 +17,4 @@ Here you can browse my various projects, work experiences, interests, and more.
 - Email: patel.dea@northeastern.edu
 - [LinkedIn](http://www.linkedin.com/in/dp2)
 
-![Profile Pic](LinkedIn_Prof.jpg)
+![Profile Pic](eiffel.jpg)
