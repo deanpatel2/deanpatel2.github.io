@@ -9,7 +9,7 @@
 
 ### Data Analytics
 
-I got into analytics because there are such low barriers to entry. All you need is a curious mind and data. As a curious person who likes numbers and has lots of various passions, analytics became my way of expressing my personality through the questions and insights I generate.
+Analytics is not only a career goal but a hobby as well. I like analytics because all you need is a curious mind. Through generating questions writing about my projects, analytics allows me to combine passions and became a way of expressing my personality.
 
 ### Football (real football)
 
