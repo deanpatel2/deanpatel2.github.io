@@ -9,7 +9,7 @@
 
 ### Data Analytics
 
-Analytics is not only a career goal but a hobby as well. I like analytics because all you need is a curious mind. Through generating questions writing about my projects, analytics allows me to combine passions and became a way of expressing my personality.
+Analytics is not only a career goal but a hobby of mine as well. I like analytics because all you need is a curious mind. Through generating questions writing about my projects, analytics allows me to combine passions and became a way of expressing my personality.
 
 ### Football (real football)
 
