@@ -24,7 +24,6 @@ I take an active interest in learning about the world, from history and geograph
 Calisthenics is strength training where you use your own bodyweight. I like it because I get bored of regular weightlifting and there are many cool movements you can train your body to do with bars alone. Plus, it is a very friendly community where everyone wants to help each other out.
 
 ### Others
-- barbering 
-- futuristic mobility (e.g. hyperloop)
 - algo trading
-- leathercrafting (so far I have made a passport wallet)
+- leathercraft (so far I have made a passport wallet)
+- barbering 
