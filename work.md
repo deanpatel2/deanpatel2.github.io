@@ -5,8 +5,8 @@
 
 ---
 
-### IDEA
-#### Data Analyst
+## IDEA
+### Data Analyst
 #### *September 2021 - Present*
 
 [IDEA](https://www.northeastern.edu/idea/) is Northeastern's student-led venture accelerator.
@@ -20,8 +20,8 @@ I recently began this role. In general, my main responsibilities include:
 
 ---
 
-### GlobalIDs
-#### Data Science Intern
+## GlobalIDs
+### Data Science Intern
 #### *July 2020 - May 2021*
 
 [GlobalIDs](https://www.globalids.com/) is an enterprise data management firm managing large corporate databases including Fortune 500 companies.
@@ -39,8 +39,8 @@ Accomplishments/responsibilities:
 
 ---
 
-### Nuvera
-#### Data Automation Co-op
+## Nuvera
+### Data Automation Co-op
 #### *January 2020 - May 2020*
 
 [Nuvera](https://www.nuvera.com/) is a manufacturer of zero-emissions hydrogen fuel cells and engines.
@@ -58,8 +58,8 @@ Accomplishments/responsibilities:
 
 ---
 
-### Sustainable Princeton
-#### Carbon Emissions Data Analyst
+## Sustainable Princeton
+### Carbon Emissions Data Analyst
 #### *April 2019 - July 2019*
 
 [Sustainable Princeton](https://www.sustainableprinceton.org/), is a 501(c)(3) nonprofit whose mission is to lead community change to reduce greenhouse gas emissions and strengthen climate resilience.
@@ -77,8 +77,8 @@ Accomplishments/responsibilities:
 
 ---
 
-### Robert Cerutti Architect
-#### Web Developer
+## Robert Cerutti Architect
+### Web Developer
 #### *June 2018 - June 2019*
 
 [Robert Cerutti Architect](http://www.rcarchitect.com/), is a multi-faceted professional design firm located in Princeton, New Jersey.
