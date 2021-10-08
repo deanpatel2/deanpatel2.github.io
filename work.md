@@ -11,7 +11,7 @@
 
 [GlobalIDs](https://www.globalids.com/) is an enterprise data management firm managing large corporate databases including Fortune 500 companies.
 
-**The project**: Use NLP techniques to deterministically decipher noise values in any single column of unlabeled categorical data. After this, scale to multi-column and identify noise that exists between semantically-related columns without an "authoritative" reference set.
+**The project**: (1) Deterministically decipher noise values, in general, from any column of unlabeled categorical data. (2) Scale general noise detection methods to multi-column and relational databases 
 
 Accomplishments/responsibilities:
 
