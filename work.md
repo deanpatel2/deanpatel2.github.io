@@ -5,21 +5,6 @@
 
 ---
 
-## IDEA
-### Data Analyst
-#### *September 2021 - Present*
-
-[IDEA](https://www.northeastern.edu/idea/) is Northeastern's student-led venture accelerator.
-
-I recently began this role. In general, my main responsibilities include:
-
-- Assisting in web integration of analytical insights and visualizations.
-- Creating data dashboarding visualizations in Tableau of key insights to be listed on a new website for the organization
-- Performing sentiment analysis using VADER on textual feedback from venture surveys to reveal trends in venture early stages
-- Interacting with Salesforce API; specifics still unknown
-
----
-
 ## GlobalIDs
 ### Data Science Intern
 #### *July 2020 - May 2021*
@@ -30,7 +15,7 @@ I recently began this role. In general, my main responsibilities include:
 
 Accomplishments/responsibilities:
 
-- Created a new data validation algorithm using NLP techniques to decipher anomalies in columnar datasets, which was deployed to client software within 3 months
+- Created a new data validation algorithm using NLP techniques to decipher anomalies in columnar datasets, deployed to client software within 3 months
 - Managed deliverables for a team of 6 interns and communicated progress with other teams across the 100+ person company, working with both managers and coders
 - Developed a multi-columnar noise detection model that identifies anomalies between related values at the row-level of datasets
   - E.g. If a city and zip were both valid in their own right, but did not match semantically (i.e. 02110 and New York City), we wanted to identify that as noise  
