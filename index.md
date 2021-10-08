@@ -2,6 +2,8 @@ Hello, welcome to my personal website.
 
 Here you can browse my various projects, work experiences, interests, and more. 
 
+New website coming soon.
+
 ### [About](about.md)
 
 ### [Projects](projects.md)
