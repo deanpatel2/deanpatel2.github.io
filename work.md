@@ -35,7 +35,7 @@ Accomplishments/responsibilities:
 - Developed a multi-columnar noise detection model that identifies anomalies between related values at the row-level of datasets
   - E.g. If a city and zip were both valid in their own right, but did not match semantically (i.e. 02110 and New York City), we wanted to identify that as noise  
 
->GlobalIDs gave me a taste of project management along with the opportunity to grapple with cutting-edge data science problems where scalability was paramount.
+>GlobalIDs gave me a glimpse into project management as well as the opportunity to work on cutting-edge data science projects for high-profile clients.
 
 ---
 
@@ -54,7 +54,7 @@ Accomplishments/responsibilities:
 - Deployed application to every test engineer's desktop which became the hub for all automation and analysis tasks
 - Introduced logistic regression model to predict probability of stack failure in the field
 
->Nuvera gave me the opportunity to champion a full-cycle project from early stage to final deployment and a taste of how to address long-standing data issues within a company.
+>Nuvera gave me the opportunity to champion a project from concept to completion and make an impact on the company's data automation processes.
 
 ---
 
@@ -73,7 +73,7 @@ Accomplishments/responsibilities:
 - See the report [here](https://www.sustainableprinceton.org/wordpress/wp-content/uploads/2019/11/princeton-climate-action-plan-report.pdf)
   - Figures I worked on can be found between pages 26-34 
 
->With Sustainable Princeton, I was able to combine my passions for analytics and sustainability while also contributing to a charitable cause and making meaninful connections with people in my community.
+>With Sustainable Princeton, I was able to combine my passions for analytics and sustainability while also contributing to a charitable cause for my hometown.
 
 ---
 
