@@ -2,7 +2,7 @@ Hello, welcome to my personal website.
 
 Here you can browse my various projects, work experiences, interests, and more. 
 
-New website coming soon.
+I've updated this website. Click [here](https://pages.github.ccs.neu.edu/deanpatel2/Personal-Website/)!
 
 ### [About](about.md)
 
